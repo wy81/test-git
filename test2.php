@@ -7,3 +7,4 @@
  */
 
 print "Hello Kok Wen Yen from test2.php";
+print "2nd hello world from test2.php";
