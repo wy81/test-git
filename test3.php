@@ -10,6 +10,4 @@ print "Hello Li Jiuen from test3.php\n";
 print "Hello World from test3.php\n";
 print "Hello World from test3.php again\n";
 
-// Adding some comments
-
 print "Hello World from test3.php again again\n";
