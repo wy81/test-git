@@ -7,3 +7,4 @@
  */
 
 print "Hello World from test4.php";
+print "Hello World directly from Github copy";
