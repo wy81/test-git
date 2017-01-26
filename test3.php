@@ -8,6 +8,3 @@
 
 print "Hello Li Jiuen from test3.php\n";
 print "Hello World from test3.php\n";
-print "Hello World from test3.php again\n";
-
-print "Hello World from test3.php again again\n";
