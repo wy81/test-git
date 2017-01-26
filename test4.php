@@ -7,5 +7,3 @@
  */
 
 print "Hello World from test4.php";
-
-print "2nd hello world from test4.php";
